@@ -1,0 +1,32 @@
+# Streamlit dashboard / quick web UI
+streamlit
+
+# ZAP client
+python-owasp-zap-v2.4
+
+# HTTP / scraping / parsing
+requests
+beautifulsoup4
+lxml
+
+# Nmap python bindings
+python-nmap
+
+# JSON / data handling (dashboard, parsing, export)
+pandas
+tabulate
+
+# CLI helpers / progress
+tqdm
+click
+
+# Report templating & export
+jinja2
+pdfkit
+PyPDF2
+markdown2
+
+# Misc utilities
+pyyaml
+python-dateutil
+
